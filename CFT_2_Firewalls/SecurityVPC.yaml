@@ -4,7 +4,7 @@ Description: >-
   Security VPC Deployment: VM-Series Deployment with AWS Gateway Load Balancer (GWLB)
 
 # ======================================================================================================================
-#   Parameters
+#   Parameters - mod'd by BP
 # ======================================================================================================================
 
 Parameters:
